@@ -78,6 +78,8 @@ h1{font-family:helvetica;
    font-weight:bold;
 }
 
+
+
 h2{
 	font-family:helvetica;
 	font-size:8px;
@@ -89,6 +91,9 @@ article {
 		margin-right:20px;
 		width: 100px;
 	
+}
+p{
+	margin:10px;
 }
 
 img{
