@@ -53,66 +53,43 @@ table {
 
 
 /*----------------STYLE STARTS HERE---------------*/
-body{
-    font-family:georgia;
-	font-size:12px;
-	margin:30px;
-	padding:20px;
-	float:right;
-	}
-	
 
 
-	
-
-
-
-h1{
-	font-size:18px;
-	font-weight:bold;
-	padding:10px;
-	
-
-}
-
-header{
-	margin:40px;
-	
-}
-
-li{
-	margin:20px:10px:20xp;
-	padding:20px;
-	font-weight:bold;
-	font-size:14px;
+nav li{
 	float:left;
-	text-transform:uppercase;
+	margin:20px;
+	
 	
 }
 
-article{
-	line-height:15px;
-	float:left;
-	margin-left:20px;
-	width: 400px;
+nav{
+	border-top: 3px solid black;
+	margin-top:40px;
+	border-bottom: 3px solid black;
 	padding:20px;
+	height:50px;
+}
+
+#article1{
+	
+	clear:both;
+	float:left;
+	width:40%;
+}
+
+
+#article2{
+	float:left
+	width:40%;
 }
 
 
 
-
-footer{
-	margin :40px;
-
-	
 }
 
-
-	
-	
-	
-	
-	
+img {
+	width:250px;
+}
 	
 	
 
