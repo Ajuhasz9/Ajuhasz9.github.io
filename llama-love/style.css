@@ -87,9 +87,10 @@ h2{
 
 
 article {
-		float:left;
+		float:right;
 		margin-right:20px;
-		width: 500px;
+		width: 400px;
+		padding:20px;
 	
 }
 p{
