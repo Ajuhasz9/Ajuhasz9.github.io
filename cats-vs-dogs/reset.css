@@ -63,15 +63,21 @@ body{
 h1{
 	font-size:14px;
 	font-weight:bold;
+	
+
+}
+header{
+	margin:40px;
 }
 
 article{
 	line-height:15px;
-	margin:30px;
+	margin:40px;
+	
 }
 
 footer{
-	margin :30px;
+	margin :40px;
 }
 
 
