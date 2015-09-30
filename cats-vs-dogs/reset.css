@@ -57,28 +57,52 @@ body{
     font-family:georgia;
 	font-size:12px;
 	margin:30px;
+	padding:20px;
+	float:right;
+	}
 	
+nav{
+	border:black;
 }
+
+	
+
 
 
 h1{
-	font-size:14px;
+	font-size:18px;
 	font-weight:bold;
+	padding:10px;
 	
 
 }
+
 header{
 	margin:40px;
+	
+}
+
+li{
+	margin:20px:10px:20xp;
+	padding:5px;
+	font-weight:bold;
 }
 
 article{
 	line-height:15px;
-	margin:40px;
-	
+	float:left;
+	margin-left:20px;
+	width: 400px;
+	padding:20px;
 }
+
+
+
 
 footer{
 	margin :40px;
+
+	
 }
 
 
