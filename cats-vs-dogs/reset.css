@@ -55,11 +55,26 @@ table {
 /*----------------STYLE STARTS HERE---------------*/
 body{
     font-family:georgia;
-	font-szie:12px;
+	font-size:12px;
 	
-	
-	
-	}
+}
+
+
+h1{
+	font-size:14px;
+	font-weight:bold;
+}
+
+article{
+	line-height:15px;
+	margin:30px;
+}
+
+footer{
+	margin :30px;
+}
+
+
 	
 	
 	
