@@ -58,12 +58,16 @@ body{
 	margin:50px;
 	
 }
+
+
 nav li{
 	float:left;
 	margin:20px;
 	position:relative;
 	left:275px;
 	bottom:5px;
+	list-style-type:disc;
+
 }
 
 
