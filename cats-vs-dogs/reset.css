@@ -80,7 +80,7 @@ nav{
 
 h1{
 	font-weight:bold;
-	font-size:20px;
+	font-size:30px;
 	padding:10px;
 	
 }
@@ -88,8 +88,9 @@ h1{
 article{
 	width:40%;
 	line-height:20px;
-	padding:20px;
+	padding:40px;
 	float:left;
+	
 	
 }
 
@@ -99,7 +100,7 @@ article{
 	float:left;
 	width:40%;
 	line-height:20px;
-	padding:20px;
+	padding:40px;
 }
 
 
