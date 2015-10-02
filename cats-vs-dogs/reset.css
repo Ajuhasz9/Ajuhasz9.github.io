@@ -54,7 +54,10 @@ table {
 
 /*----------------STYLE STARTS HERE---------------*/
 
-
+body{
+	margin:50px;
+	
+}
 nav li{
 	float:left;
 	margin:20px;
@@ -63,11 +66,21 @@ nav li{
 }
 
 nav{
-	border-top: 3px solid black;
+	border-top: 5px solid black;
 	margin-top:40px;
-	border-bottom: 3px solid black;
+	border-bottom: 5px solid black;
 	padding:20px;
 	height:50px;
+	font-weight:bold;
+	font-size:20px;
+	text-transform:uppercase;
+}
+
+h1{
+	font-weight:bold;
+	font-size:20px;
+	padding:10px;
+	
 }
 
 #article1{
@@ -75,12 +88,17 @@ nav{
 	clear:both;
 	float:left;
 	width:40%;
+	line-height:20px;
+	padding:20px;
 }
 
 
 #article2{
 	float:left
 	width:40%;
+	padding:30px;
+	margin:30px;
+padding:20px;
 }
 
 
