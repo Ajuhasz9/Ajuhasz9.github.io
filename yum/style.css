@@ -60,6 +60,9 @@ body{
 	line-height:20px;
 	font-family:helvetica;
 	font-size:12px;
+	position:absolute;
+	left:100px;
+
 	
 }
 
@@ -75,8 +78,19 @@ body{
 h1{
 	font-family:helvetica;
 	font-weight:bold;
-	font-size:20px;
-	margin:30px;
+	font-size:30px;
+
+	right:20px;
+}
+
+h2{
+	font-size:18px;
+	font-weight:bold;
+	padding:10px;
+}
+
+section{
+	
 }
 
 ul{
