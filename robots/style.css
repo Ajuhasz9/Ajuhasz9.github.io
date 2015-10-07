@@ -54,11 +54,23 @@ table {
 
 
 
+
 body{
 	font-family:helvetica;
 	font-size:10px;
 	line-height:12px;
 	padding:80px;
+	
+}
+
+nav{
+	margin-top:10px;
+	margin-top:10px;
+	padding:10px;
+	font-weight:bold;
+	font-size:12px;
+	text-transform:uppercase;
+	
 	
 }
 
@@ -75,9 +87,7 @@ h2{
 	margin:10px;
 }
 
-article{
-	float:left;
-}
+
 
 
 
