@@ -57,7 +57,10 @@ table {
 body{
 	margin:50px;
 	
+	
+	
 }
+p{width:50%; margin:0 auto;}
 
 
 nav li{
@@ -65,8 +68,8 @@ nav li{
 	margin:20px;
 	left:275px;
 	bottom:5px;
-	list-style-type:disc;
-
+	text-align:center;
+	
 }
 
 
