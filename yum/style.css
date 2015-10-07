@@ -61,11 +61,18 @@ body{
 	font-family:helvetica;
 	font-size:12px;
 	float:left;
-
-	
 }
 
 
+
+
+
+#box{
+	background-color:black;
+	width:250px;
+	height:80px;
+	margin-bottom:60px;
+}
 
 
 h1{
@@ -75,6 +82,8 @@ h1{
 	width:30%;
 	float:left;
 	line-height:100%;
+	
+	
 }
 
 
