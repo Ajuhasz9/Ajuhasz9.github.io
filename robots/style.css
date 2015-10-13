@@ -58,6 +58,10 @@ body {
 	font-family:Helvetica;
 }
 
+h1{
+	text-decoration:none;
+}
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
@@ -73,6 +77,7 @@ q:before, q:after {
 	background-color: #ecf2d3;
 	width: 500px;
 	margin-left:180px;
+	text-decoration:none;
 }
 
 
