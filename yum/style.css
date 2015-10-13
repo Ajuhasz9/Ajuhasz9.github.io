@@ -63,6 +63,12 @@ body{
 	float:left;
 }
 
+img{
+	position:absolute;
+	left:80px;
+	top:67px;
+}
+
 
 
 
