@@ -72,6 +72,16 @@ body{
 	width:250px;
 	height:80px;
 	margin-bottom:60px;
+
+
+}
+
+h1:hover{
+	color:yellow;
+}
+
+h2:hover{
+	color:yellow;
 }
 
 
