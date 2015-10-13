@@ -62,15 +62,8 @@ h1{
 	text-decoration:none;
 }
 
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-
 #site-wrapper{
 	background-color:#ecf2d3;
-	position:relative;
 }
 
 #site-header {
