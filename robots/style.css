@@ -55,7 +55,7 @@ table {
 
 body {
 	line-height: 1;
-	font-family:helvetica;
+	font-family:Helvetica;
 }
 
 blockquote:before, blockquote:after,
@@ -86,10 +86,6 @@ q:before, q:after {
 	position:absolute;
 	top:5px;
 	right:80px;
-}
-
-#top-nav span{
-	color:#875c33;
 }
 
 #menu-wrapper{
@@ -152,13 +148,11 @@ h2{
 	width:400px;
 	margin-top:60px;
 }
-#sidebar ul{
-	margin-bottom:5px;
-}
+
 #sidebar a {
 	color:#875c33;
-	text-decoration:none;
 	line-height:150%;
+	text-decoration:none;
 }
 #sidebar img{
 	width:50%;
@@ -197,10 +191,7 @@ h1.footer-header{
 	font-size:14px;
 	margin-bottom:5px;
 }
-#footer-contact p{
-	color:white;
-	line-height:2em;
-}
+
 	
 
 
