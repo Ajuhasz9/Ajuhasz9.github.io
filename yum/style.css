@@ -61,18 +61,19 @@ body{
 	font-family:helvetica;
 	font-size:12px;
 	float:left;
+	position:relative;
 }
 
-img{
+#icon{
 	position:absolute;
-	left:80px;
-	top:67px;
+	left:10px;
+	top:4px;
 }
 
 #serving{
 	position:absolute;
-	left:200px
-	bottom:50px;
+	left:900px;
+	bottom:0px;
 }
 
 
