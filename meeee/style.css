@@ -54,3 +54,32 @@ section#content { margin:0 auto; width:960px; padding:20px 0px; }
 h1 { font-size:48px; font-weight:bold; color:black; text-align:center; }
 h2 { font-size:36px; font-weight:bold; color:black; text-align:center; }
 p { padding-bottom:10px; }
+
+
+
+
+
+
+
+img{
+	position:absolute;
+	bottom:200px;
+	margin:20px;
+}
+
+h1{
+	color:#00FF00;
+	font-family:Graphik;
+}
+
+h2{
+	color:#FF00FF;
+	font-family:klinik;
+	font-size:24px;
+}
+
+p{
+	font-family:Graphik;
+	margin:10px;
+	text-align:center;
+}
