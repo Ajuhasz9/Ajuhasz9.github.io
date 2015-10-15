@@ -74,6 +74,8 @@ body{
 	position:absolute;
 	left:900px;
 	bottom:0px;
+	width:60px;
+	width:60px;
 }
 
 
@@ -88,6 +90,14 @@ body{
 	margin-bottom:60px;
 
 
+}
+
+#chicken{
+	position:absolute;
+	left:10px;
+	top:4px;
+	width:60px;
+	height:60px;
 }
 
 
