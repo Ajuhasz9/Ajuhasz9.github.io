@@ -99,10 +99,11 @@ h1{
 
 article{
 	width:40%;
-	line-height:20px;
+	line-height:25px;
 	padding:40px;
 	float:left;
 	font-size:20px;
+	
 	
 }
 
@@ -120,6 +121,24 @@ span{
 }
 
 
+
+#footer1{
+	border-top:5px solid black;
+	width:100%;
+	padding:10px;
+	float:left;
+	text-align:left;
+}
+
+#copyright{
+	float:right;
+	text-align:right;
+	clear:both;
+	
+}
+
+
+
 footer{
 	clear:both;
 	border-top:2px solid black;
@@ -128,23 +147,6 @@ footer{
 }
 
 
-#footer1{
-	float:left;
-	text-align:left;
-}
-
-#copyright{
-	float:right;
-	text-align:right;
-}
-
-
-
-footer{
-		
-	
-	
-}
 	
 	
 
