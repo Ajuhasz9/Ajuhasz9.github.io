@@ -169,6 +169,9 @@ h2{
 	position:relative;
 	height:170px;
 	clear:both;
+	line-height:30px;
+	font-size:15px;
+	line-width:10px;
 }
 #footer-contact{
 	position:absolute;
@@ -204,6 +207,11 @@ h1.footer-header{
 
 #bottom{
 	font-size:60px;
+}
+
+span{
+	text-transform:uppercase;
+	color:tan;
 }
 
 	
