@@ -203,6 +203,9 @@ h1.footer-header{
 #footer-contact{
 	color:white;
 	line-height:1;
+	width:150px;
+	padding-top:20px;
+	
 }
 
 #bottom{
@@ -212,6 +215,8 @@ h1.footer-header{
 span{
 	text-transform:uppercase;
 	color:tan;
+	font-size:18px;
+	padding-bottom:10px;
 }
 
 	
