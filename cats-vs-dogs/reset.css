@@ -147,6 +147,17 @@ footer{
 }
 
 
+@media screen and (max-width:450px) {
+   #article1 { float:none; width:40%; margin:0 1%; }
+   #article2 { float:none; width:40%; margin:0 1%; }
+   nav { height:80%; }
+   
+}
+
+  
+		
+
+
 	
 	
 
