@@ -57,10 +57,11 @@ table {
 
 body{
 	
-	font-family: 'Karla', sans-serif;
-	font-size:90%;
-	line-height:20px;
+	font-family: 'Raleway', sans-serif;
+	font-size:14px;
+	line-height:22px;
 	font-weight:normal;
+	margin-left:2em;
 }
 
 #images{
@@ -96,28 +97,34 @@ body{
 
 
 h1{
-	font-size:30px;
+	font-size:40px;
 	font-weight:normal;
 	padding-top:10px;
 	position:absolute;
 	left:390px;
-	bottom-margin:;
+	
 }
 
+
 h2{
-	font-size:20px;
+	margin-top:4%;
+	font-size:3.5em;
 	font-weight:bold;
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

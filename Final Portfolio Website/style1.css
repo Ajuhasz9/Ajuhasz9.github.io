@@ -64,16 +64,12 @@ h1{
 
 
 
-#imageblock{
-	position:absolute;
-	left:120px;
-	padding-top:150px;
-}
 
 
 nav{
 	border-bottom: 3px solid black;
 	padding:40px;
+	
 }
 
 
@@ -82,5 +78,5 @@ body{
 	
 	font-family: 'Karla', sans-serif;
 	font-size:90%;
-	line-height:20px;
+	line-height:2em;
 }
