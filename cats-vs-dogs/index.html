@@ -4,7 +4,26 @@
 	<title>Dogs vs. Cats</title>
 	
 		 <link href="reset.css" rel="stylesheet" type="text/css" media="screen" />
-  </head>
+		 
+	 <!-- Add jQuery library -->
+	 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+	 <!-- Add mousewheel plugin (this is optional) -->
+	 <script type="text/javascript" src="lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+	 <!-- Add fancyBox -->
+	 <link rel="stylesheet" href="source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	 <script type="text/javascript" src="source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+	 <!-- Optionally add helpers - button, thumbnail and/or media -->
+	 <link rel="stylesheet" href="source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+	 <script type="text/javascript" src="source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+	 <script type="text/javascript" src="source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+	 <link rel="stylesheet" href="source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+	 <script type="text/javascript" src="source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+		 
+</head>
   <body>
 	<header>
 		<h1 id='logo'> <img src="images/dogvscat-logo.gif" alt>
@@ -28,7 +47,9 @@
 		</header>
 	
 		<article id="article1">
-			<img src="dog.jpg" alt>
+		
+			
+			<a class="fancybox" rel="group" href="dog.jpg"><img src="dog.jpg" alt "dog.jpg"></a>
 		<h1>Dogs Have Better Noses</h1>
 			<p>Dogs can discriminate odors at concentrations nearly 100 million times lower than humans can. The wet nose is essential for determining the direction of the air current containing the smell. Cold receptors in the skin are sensitive to the cooling of the skin by evaporation of the moisture by air currents.</p>
 			</article>
@@ -41,6 +62,12 @@
 				
 <p id="footer1">images and copy from <span style="color:red">wiki commons</span></p>
 <p id="copyright">copyright ©2011 <span style="color:red">martha rettig</span></p>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
 			
 
   </body>
