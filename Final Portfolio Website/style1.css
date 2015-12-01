@@ -53,24 +53,63 @@ table {
 
 
 h1{
-	font-size:100px;
+	font-size:9em;
+	line-height:1em;
 	font-weight:bold;
-	padding-top:70px;
+	padding-top:4.5%;
+	padding-bottom:2.5%;
+	margin-left:4%;
+	border-style: solid;
+	border-bottom: thick solid #000000;
+	border-bottom-width: 10px;
 	
+}
+
+p:hover, h1:hover {
+    color: #949A9C;
+}
+
+#imageblock{
+	float:left;
+}
+li{
+	float:left;
+	padding:3%;
+	margin-left:27%;
+	font-family:'Raleway';
+	font-weight:600;
+	font-size:1.5em;
+	color:black;
 	
+}
+
+
+a {
+    color:black;
+}
+
+a:link {
+    text-decoration:none;
+}
+
+a:hover {
+    color:#949A9C;
 }
 
 
 
 
+	 
 
 
 
-nav{
-	border-bottom: 3px solid black;
-	padding:40px;
-	
-}
+
+
+
+
+
+
+
 
 
 
