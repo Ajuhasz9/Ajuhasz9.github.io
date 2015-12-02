@@ -52,58 +52,64 @@ table {
 
 
 
+body{
+	
+	font-family: 'Raleway', sans-serif;
+	font-size:14px;
+	line-height:22px;
+	font-weight:normal;
+	margin-left:2em;
+	width:30%;
+	
+	
+}
+
+
 h1{
-	font-size:9em;
-	line-height:1em;
+	font-family:'Raleway';
+	font-size:2em;
 	font-weight:bold;
-	padding-top:4.5%;
-	padding-bottom:2.5%;
-	margin-left:4%;
+	padding-top:10px;
+	position:absolute;
+	left:390px;
+	
+}
+
+
+h2{
+	font-family:'Raleway';
+	margin-top:4%;
+	font-size:3em;
+	font-weight:bold;
+	line-height:100%;
+	padding-bottom:1.5%;
 	border-style: solid;
 	border-bottom: thick solid #000000;
 	border-bottom-width: 10px;
 	
+	
 }
-
-p:hover, h1:hover {
+	
+	
+ h2:hover {
     color: #949A9C;
 }
 
-#imageblock{
-	float:left;
-}
-li{
-	float:left;
-	padding:3%;
-	margin-left:27%;
-	font-family:'Raleway';
-	font-weight:600;
-	font-size:1.5em;
-	color:black;
-	
-}
 
 
-a {
-    color:black;
+#images{
+	position:absolute;
+	left:30%;
+	padding:5%;
 }
 
 a:link {
-    text-decoration:none;
-}
-
-a:hover {
-    color:#949A9C;
-}
-
-span{
-	font-size:1em;
+    text-decoration: none;
 }
 
 
 
 
-	 
 
 
 
@@ -112,14 +118,3 @@ span{
 
 
 
-
-
-
-
-
-body{
-	
-	font-family: 'Karla', sans-serif;
-	font-size:90%;
-	line-height:2em;
-}

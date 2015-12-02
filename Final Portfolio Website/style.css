@@ -117,7 +117,7 @@ h2{
 	padding-bottom:1.5%;
 	border-style: solid;
 	border-bottom: thick solid #000000;
-	border-bottom-width: 10px;
+	border-bottom-width:5%;
 }
 	
 
@@ -128,7 +128,7 @@ h2{
 	    border-bottom: thick solid #ff0000;
 }
 
-p:hover, h2:hover {
+ h2:hover {
     color: #949A9C;
 }
 	
