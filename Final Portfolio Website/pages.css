@@ -55,11 +55,12 @@ table {
 body{
 	
 	font-family: 'Raleway', sans-serif;
-	font-size:14px;
-	line-height:22px;
+	font-size:13px;
+	line-height:21px;
 	font-weight:normal;
 	margin-left:2em;
-	width:30%;
+	width:23%;
+	margin-top:2em;
 	
 	
 }
@@ -79,6 +80,7 @@ h1{
 h2{
 	font-family:'Raleway';
 	margin-top:4%;
+	margin-bottom:8%;
 	font-size:3em;
 	font-weight:bold;
 	line-height:100%;
@@ -86,6 +88,8 @@ h2{
 	border-style: solid;
 	border-bottom: thick solid #000000;
 	border-bottom-width: 5%;
+	width:4em;
+	padding-top:4%;
 	
 	
 }
@@ -101,6 +105,7 @@ h2{
 	position:absolute;
 	left:30%;
 	padding:5%;
+	top-margin:1em;
 }
 
 
