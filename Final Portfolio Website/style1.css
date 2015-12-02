@@ -61,12 +61,17 @@ h1{
 	margin-left:4%;
 	border-style: solid;
 	border-bottom: thick solid #000000;
-	border-bottom-width: 10px;
+	border-bottom-width:.1em;
 	
 }
 
 p:hover, h1:hover {
     color: #949A9C;
+}
+
+
+nav ul{
+	text-align:center;
 }
 
 #imageblock{

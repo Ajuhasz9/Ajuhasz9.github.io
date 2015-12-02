@@ -56,6 +56,7 @@ table {
 
 body{
 	margin:50px;
+	width:80%;
 	
 	
 	
@@ -97,14 +98,23 @@ h1{
 	
 }
 
+
+img{
+	float:left;
+}
+
 article{
 	width:40%;
 	line-height:25px;
 	padding:40px;
-	float:left;
+	margin:2.5%;
 	font-size:20px;
-	
-	
+	background-color:white;width:40%;
+	float: left
+}
+
+article img{
+	width:100%;
 }
 
 p{
@@ -138,7 +148,6 @@ span{
 }
 
 
-
 footer{
 	clear:both;
 	border-top:2px solid black;
@@ -147,11 +156,20 @@ footer{
 }
 
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:80%) {
    #article1 { float:none; width:40%; margin:0 1%; }
    #article2 { float:none; width:40%; margin:0 1%; }
    nav { height:80%; }
    
+}
+
+@media screen and (max-width:600px){
+	nav li {
+		display
+	}
+	
+	
+	
 }
 
   

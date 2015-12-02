@@ -85,7 +85,7 @@ h2{
 	padding-bottom:1.5%;
 	border-style: solid;
 	border-bottom: thick solid #000000;
-	border-bottom-width: 10px;
+	border-bottom-width: 5%;
 	
 	
 }
@@ -103,10 +103,12 @@ h2{
 	padding:5%;
 }
 
-a:link {
-    text-decoration: none;
-}
 
+a:link {color: #000000; color:black; text-decoration:none; }
+
+a {
+    color:black;
+}
 
 
 
