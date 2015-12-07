@@ -58,10 +58,11 @@ h1{
 	font-weight:bold;
 	padding-top:4.5%;
 	padding-bottom:2.5%;
-	margin-left:4%;
 	border-style: solid;
 	border-bottom: thick solid #000000;
 	border-bottom-width:.1em;
+	width:96%;
+	
 	
 }
 
@@ -74,13 +75,16 @@ nav ul{
 	text-align:center;
 }
 
-#imageblock{
+#imageblock img{
 	float:left;
+	width:46%;
+	margin:1%;
 }
+
+
 li{
-	float:left;
+	display:inline-block;
 	padding:3%;
-	margin-left:27%;
 	font-family:'Raleway';
 	font-weight:600;
 	font-size:1.5em;
@@ -107,24 +111,17 @@ span{
 
 
 
-
-	 
-
-
-
-
-
-
-
-
-
-
-
-
-
 body{
 	
 	font-family: 'Karla', sans-serif;
 	font-size:90%;
 	line-height:2em;
+	margin:0 auto;
+	width:80%;
 }
+
+
+
+
+
+

@@ -59,8 +59,7 @@ body{
 	line-height:21px;
 	font-weight:normal;
 	margin-left:2em;
-	width:23%;
-	margin-top:2em;
+	margin-top:1.5%;
 	
 	
 }
@@ -70,9 +69,10 @@ h1{
 	font-family:'Raleway';
 	font-size:2em;
 	font-weight:bold;
-	padding-top:10px;
+	padding-top:10%;
 	position:absolute;
-	left:390px;
+	left:50%;
+	
 	
 }
 
@@ -80,15 +80,15 @@ h1{
 h2{
 	font-family:'Raleway';
 	margin-top:4%;
-	margin-bottom:8%;
+	margin-bottom:3%;
 	font-size:3em;
 	font-weight:bold;
 	line-height:100%;
-	padding-bottom:1.5%;
+	padding-bottom:1%;
 	border-style: solid;
 	border-bottom: thick solid #000000;
-	border-bottom-width: 5%;
-	width:4em;
+	border-bottom-width:5%;
+	width:12%;
 	padding-top:4%;
 	
 	
@@ -102,10 +102,21 @@ h2{
 
 
 #images{
-	position:absolute;
-	left:30%;
-	padding:5%;
-	top-margin:1em;
+	float:right;
+	width:65%;
+	margin-left:5%;
+}
+
+#description{
+	float:left;
+	width:30%;
+}
+
+#images img{
+	width:95%;
+	margin:1%;
+
+
 }
 
 
@@ -115,6 +126,36 @@ a {
     color:black;
 }
 
+.image1{
+	float:right;
+	width:65%;
+	margin-left:5%;
+}
+
+.image2{
+	float:right;
+	width:65%;
+	margin-left:5%;
+}
+
+.image3{
+	float:right;
+	width:65%;
+	margin-left:5%;
+}
+
+.image4{
+	float:right;
+	width:65%;
+	margin-left:5%;
+}
+
+
+.bookp{
+	float:left;
+	width:30%;
+	
+}
 
 
 
