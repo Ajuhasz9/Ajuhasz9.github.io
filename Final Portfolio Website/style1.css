@@ -120,6 +120,12 @@ body{
 	width:80%;
 }
 
+p{
+    width:50%;
+	float:left;
+	margin-left:20%;
+}
+
 
 
 
