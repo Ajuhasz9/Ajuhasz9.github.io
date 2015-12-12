@@ -115,6 +115,10 @@ article img{
 	
 }
 
+#article1{
+	float:left;
+}
+
 
 
 p{
@@ -157,8 +161,8 @@ footer{
 
 
 @media screen and (max-width:80%) {
-   #article1 { float:none; width:40%; margin:0 1%; }
-   #article2 { float:none; width:40%; margin:0 1%; }
+   #article1 { float:none; width:40%; margin:0 1%; font-size: 1em;}
+   #article2 { float:none; width:40%; margin:0 1%; font-size: 1em;}
    nav { height:80%; }
    
 }
@@ -169,6 +173,7 @@ footer{
 	}
 	
 	
+
 	
 	
 	
