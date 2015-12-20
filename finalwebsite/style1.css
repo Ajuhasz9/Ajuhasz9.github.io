@@ -53,14 +53,15 @@ table {
 
 
 h1{
-	font-size:9em;
-	line-height:1em;
+	font-size:4em;
+	letter-spacing:7px;
+	line-height:73px;
 	font-weight:bold;
 	padding-top:4.5%;
-	padding-bottom:2.5%;
-	border-style: solid;
-	border-bottom: thick solid #000000;
-	border-bottom-width:.1em;
+	padding-bottom:.7%;
+	border-style:solid;
+	border-bottom:thick solid #000000;
+	border-bottom-width:.14em;
 	width:96%;
 	
 	
@@ -87,7 +88,8 @@ li{
 	padding:3%;
 	font-family:'Raleway';
 	font-weight:600;
-	font-size:1.5em;
+	font-size:16px;
+	letter-spacing:2px;
 	color:black;
 	
 }
