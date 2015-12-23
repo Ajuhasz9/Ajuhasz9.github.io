@@ -116,7 +116,7 @@ a:hover {
 body{
 	
 	font-family: 'Karla', sans-serif;
-	font-size:90%;
+	font-size:11px;
 	line-height:2em;
 	margin:0 auto;
 	width:80%;
@@ -125,7 +125,7 @@ body{
 p{
     width:45%;
 	float:left;
-	margin-left:10%;
+	margin-left:.5%;
 	padding-top:4.5%;
 	line-height:1.7em
 	
