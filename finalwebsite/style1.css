@@ -53,10 +53,10 @@ table {
 
 
 h1{
+	font-family: Stolzl-Medium;
 	font-size:4em;
 	letter-spacing:7px;
-	line-height:73px;
-	font-weight:bold;
+	line-height:60px;
 	padding-top:4.5%;
 	padding-bottom:.7%;
 	border-style:solid;
@@ -86,7 +86,7 @@ nav ul{
 li{
 	display:inline-block;
 	padding:3%;
-	font-family:'Raleway';
+	font-family:Stolzl-Medium
 	font-weight:600;
 	font-size:16px;
 	letter-spacing:2px;
