@@ -65,7 +65,17 @@ body{
 }
 
 
-
+h1{
+	font-family: Stolzl-Medium;
+	font-size:15px;
+	font-weight:Bold;
+	padding-top:5%;
+	position:absolute;
+	left:50%;
+	letter-spacing:2.5px;
+	
+	
+}
 
 
 h2{
@@ -87,11 +97,9 @@ h2{
 }
 
 h1{
-	margin-top:3px;
-	font-family:Stolz-Medium;
+	font-family: Stolzl-Medium;
 }
-
-
+	
 	
  h2:hover {
     color: #949A9C;
