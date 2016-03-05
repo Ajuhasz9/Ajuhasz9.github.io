@@ -65,7 +65,17 @@ body{
 }
 
 
-
+h1{
+	font-family: Stolzl-Medium;
+	font-size:15px;
+	font-weight:Bold;
+	padding-top:5%;
+	position:absolute;
+	left:50%;
+	letter-spacing:2.5px;
+	
+	
+}
 
 
 h2{
@@ -160,7 +170,7 @@ a {
 	top:0%;
     background-color: #FFFFFF;
     position: fixed;
-	opacity: 0.1;
+	opacity: 0.5;
 	
 }
 
